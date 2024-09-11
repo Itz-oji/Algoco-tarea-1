@@ -21,15 +21,15 @@ def generar_matriz_desordenada(filas, columnas, nombre_archivo):
 # Solicitar el número de filas y columnas al usuario
 
 
-filas = columnas = 2**1  # 1024x1024
-filas1 = columnas1 = 2**2  # 2048x2048
-filas2 = columnas2 = 2**3  # 64x64
-filas3 = columnas3 = 2**4  # 128x128
-filas4 = columnas4 = 2**5  # 16x16
-filas5 = columnas5 = 2**6  # 32x32
-filas6 = columnas6 = 2**7  # 512x512
-filas7 = columnas7 = 2**8  # 1024x1024
-filas8 = columnas8 = 2**9  # 256x256
+filas = columnas = 2**1  
+filas1 = columnas1 = 2**2  
+filas2 = columnas2 = 2**3  
+filas3 = columnas3 = 2**4  
+filas4 = columnas4 = 2**5  
+filas5 = columnas5 = 2**6  
+filas6 = columnas6 = 2**7  
+filas7 = columnas7 = 2**8  
+filas8 = columnas8 = 2**9  
 filas9 = columnas9 = 2**10 
 
 
